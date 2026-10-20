@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#2f5233"/>
+  <rect x="28" y="28" width="456" height="456" rx="92" fill="none" stroke="#f6f1e4" stroke-width="14" opacity="0.35"/>
+  <text x="256" y="348" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="290" font-weight="bold" fill="#f6f1e4">ப</text>
+  <path d="M120 400 Q256 340 392 400" fill="none" stroke="#f6f1e4" stroke-width="16" stroke-linecap="round" opacity="0.55"/>
+</svg>
